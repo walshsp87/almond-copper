@@ -1,0 +1,4 @@
+1 - Need cropped logo image. I am unsure of sizing, spacing, etc. on branding assets from Hilton. Rather than making a wrong assumption, I would prefer requesting a new asset that is cropped correctly for the design.
+2 - I am unsure on my font choice and no clarification has been given. I am using system sans-serif fonts.
+3 - I included no interactions as no interaction states were provided and I have nothing to base any assumptions off of given the brand.
+4 - I am using flexbox. If older browsers need to be supported, let me know and I can polyfill or restyle using floats.
